@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+
+  font-family: 'Kameron', serif;
+
+}
+
+a {
+  text-decoration: none;
+
+}
+
+:root{
+  --background-color:#324242;
+  --background-secundary-color:#506060;
+  --text-color:#F2E8FF;
+  --text-card-color:#1A1A1A;
+}
+
