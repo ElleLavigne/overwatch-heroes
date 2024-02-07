@@ -17,6 +17,9 @@
 }
 .section {
   position: relative;
+  height: calc(912 / 1080 * 100vh);
+
+  overflow: hidden;
 }
 .section .bg {
   position: absolute;

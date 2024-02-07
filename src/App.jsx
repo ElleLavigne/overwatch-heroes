@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import { Hero } from './sections/Hero'
-
+import {Heroes} from './sections/Heroes'
 
 function App() {
   
@@ -11,6 +11,7 @@ function App() {
      <div id="page-container">
       
       <Hero></Hero>
+      <Heroes></Heroes>
 
 
      </div>

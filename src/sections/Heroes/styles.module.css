@@ -1,0 +1,15 @@
+.listCard {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+
+.title{
+  font-family: 'Bowlby One SC', sans-serif;
+  color: var(--text-color);
+ font-size: 64px;
+ text-align: center;
+ margin-bottom: 50px;
+}
